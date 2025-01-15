@@ -20,32 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book: Cuidados com Informações Falsas sobre Saúde e Fórmulas Milagrosa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book de 5 páginas contendo dicas para identificar e evitar informações falsas, para tomar decisões mais seguras sobre nossa saúde.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi Utilizado o "ChatGPT" para revisão e pesquisa, estruturar o conteúdo e refinar minhas ideias. Além disso o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no OnlyOffice, por ser uma ferramenta open-source para edição de texto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Ferramenta OnlyOffice para edição.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Criar algo "natty" com IA exige uma colaboração entre o humano e a máquina: enquanto a IA pode ajudar a acelerar o processo criativo, o toque final e a personalização de um trabalho realmente refinado ainda dependem da visão e do julgamento humano.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
