@@ -14,6 +14,8 @@ Foi Utilizado o "ChatGPT" para revisão e pesquisa, estruturar o conteúdo e ref
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
+Confira [aqui](https://github.com/OrquideaFlorida/lab-natty-or-not/blob/main/Desvendando%20Mitos.pdf)
+
 ## 💭 Reflexão
 Criar algo "natty" com IA exige uma colaboração entre o humano e a máquina: enquanto a IA pode ajudar a acelerar o processo criativo, o toque final e a personalização de um trabalho realmente refinado ainda dependem da visão e do julgamento humano.
 Ps.: O ideal seria utilizar o "Mindjourney", porém este recurso neste momento, não está disponível gratuitamente até este momento.
